@@ -13,8 +13,9 @@
 
 ## Installation and run
 
+Rename .env.example to .env and put your API key
+
 ```sh
-cd movie
 yarn && cd ios && pod install
 yarn ios
 ```
@@ -36,7 +37,6 @@ yarn ios
 [styled components]: https://styled-components.com/
 [axios]: https://axios-http.com/docs/intro
 [jest]: https://jestjs.io/
-
 
 ## Software Design Pattern
 
