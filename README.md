@@ -2,6 +2,11 @@
 
 ![N|Solid](https://miro.medium.com/max/1024/1*DgaDlJD8Hoq1lj5vUV4KiA.png)
 
+# Screen shots
+
+![Home screen](screenshots/home.png?raw=true 'Home')
+![Detail screen](screenshots/detail.png?raw=true 'Detail')
+
 ## Tech
 
 - [Redux toolkit] Includes utilities to simplify common use cases like store setup, creating reducers, immutable update logic, and more
